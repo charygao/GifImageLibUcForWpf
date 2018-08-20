@@ -1,0 +1,8 @@
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageLib\bin\Debug\GifImageLib.dll
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageLib\bin\Debug\GifImageLib.pdb
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.csprojAssemblyReference.cache
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.Properties.Resources.resources
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.csproj.GenerateResource.cache
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.dll
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.pdb

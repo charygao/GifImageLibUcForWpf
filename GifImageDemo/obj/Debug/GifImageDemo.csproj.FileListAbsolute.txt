@@ -1,0 +1,17 @@
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\bin\Debug\GifImageDemo.exe
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\bin\Debug\GifImageDemo.pdb
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\bin\Debug\GifImageLib.dll
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\bin\Debug\GifImageLib.pdb
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\GifImageDemo.csprojAssemblyReference.cache
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\Window1.baml
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\Window1.g.cs
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\App.g.cs
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\GifImageDemo_MarkupCompile.cache
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\GifImageDemo.g.resources
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\GifImageDemo.Properties.Resources.resources
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\GifImageDemo.csproj.GenerateResource.cache
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\GifImageDemo.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\GifImageDemo.csproj.CopyComplete
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\GifImageDemo.exe
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\obj\Debug\GifImageDemo.pdb
+D:\Program Files\HK\HkDesktop\GifImageDemo\GifImageDemo\bin\Debug\GifImageDemo.exe.config
